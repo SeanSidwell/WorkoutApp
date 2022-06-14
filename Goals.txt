@@ -1,5 +1,7 @@
 # Workout App
 
+ETA: 3 weeks
+
 Goals: 
 -timer
 -Weight chart calculator
@@ -7,6 +9,7 @@ Goals:
       -different workouts within programs
       -each workout handled individually
       -quick load on startup
+      -thumbs up/rating
 
 
 -Custom Lifts
