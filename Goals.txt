@@ -1,3 +1,21 @@
 # Workout App
 
 Goals: 
+-timer
+-Weight chart calculator
+-Custom programs database
+      -different workouts within programs
+      -each workout handled individually
+      -quick load on startup
+
+
+-Custom Lifts
+      -pass/fails
+      -weight incrementing
+      -metric units option
+      -rep schemes
+
+
+-profiles
+      -usernames
+      -sharing workouts
